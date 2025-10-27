@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type":"Feature",
+      "properties": { "name":"沖松島駅", "desc":"東松島市にある駅" },
+      "geometry": { "type":"Point", "coordinates":[141.4692,38.3925] }
+    },
+    { "type":"Feature",
+      "properties": { "name":"サンプル2", "desc":"説明2" },
+      "geometry": { "type":"Point", "coordinates":[134.060,34.350] }
+    }
+  ]
+}
